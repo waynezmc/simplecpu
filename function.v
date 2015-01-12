@@ -1,3 +1,5 @@
+//This file define some functions used in the simple cpu.
+
 /************alu module *************/
 module alu (opa, opb, aluc, result, z);
 //define the ports
